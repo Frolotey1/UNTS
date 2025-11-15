@@ -22,9 +22,10 @@ int main() {
     example_array.add(1,2);
     example_array.add(2,3); // emplace elements by index
     example_array.add(3,4);
-    example_array.add(4,4); // dublicated element. He'll not be inserted in structure.
+    example_array.add(4,4);    // dublicated element. He'll not be inserted in structure.
     example_array.for_each(); // for_each() displays sorted and unique elements
     // output will be: 1 2 3 4
+    std::cout << example_array[0] << std::endl; // get elements by index. At 0 index is 1
     example_array.clear(); // for cleaning elements in structure
     return 0 ;
 }
