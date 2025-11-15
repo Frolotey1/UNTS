@@ -30,5 +30,7 @@ int main() {
     return 0 ;
 }
 ```
+# CMake
+Project was configured and generated with `CMake`.
 # License 
 This project works under `MIT` license
