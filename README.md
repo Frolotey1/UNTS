@@ -32,5 +32,9 @@ int main() {
 ```
 # CMake
 Project was configured and generated with `CMake`.
+# Contacts 
+If you want to offer the improvements for this project, you can find me in: 
+- [@fr1zb3e](@fr1zb3e) →  Telegram nickname
+- [Habr](https://habr.com/ru/users/fr1zb3e/) →  WebSite
 # License 
 This project works under `MIT` license
