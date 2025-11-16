@@ -36,5 +36,7 @@ Project was configured and generated with `CMake`.
 If you want to offer the improvements for this project, you can find me in: 
 - [@fr1zb3e](@fr1zb3e) →  Telegram nickname
 - [Habr](https://habr.com/ru/users/fr1zb3e/) →  WebSite
+# How can you download this project
+1. Click on the button '<> code' and 
 # License 
 This project works under `MIT` license
