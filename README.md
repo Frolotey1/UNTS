@@ -3,7 +3,7 @@
 
 United Template Structures which **unite opportunities** from `STL` structures in few. 
 # C++
-Project was written on `C++` and based on `C++17` standard.
+Project was written on `C++` and based on `C++17` standard. Other newer standards **can support** this project.
 # All structures from UNTS
 You can see the list of the structures, which were united from `STL structures`.
 1. std::set + std::array → `unique_array`
