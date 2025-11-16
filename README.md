@@ -1,4 +1,6 @@
 # UNTS
+![License](https://img.shields.io/github/license/Frolotey1/UNTS)
+
 United Template Structures which **unite opportunities** from `STL` structures in few. 
 # C++
 Project was written on `C++` and based on `C++17` standard.
