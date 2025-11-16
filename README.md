@@ -43,6 +43,6 @@ git clone https://github.com/Frolotey1/UNTS.git
 # Contacts 
 If you want to **offer** the improvements for my project, you can find me in: 
 - [@fr1zb3e](@fr1zb3e) →  Telegram nickname
-- [Habr](https://habr.com/ru/users/fr1zb3e/) →  WebSite
+- [Habr](https://habr.com/ru/users/fr1zb3e/) →  Website
 # License 
 This project works under `MIT license`
