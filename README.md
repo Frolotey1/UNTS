@@ -1,5 +1,5 @@
 # UNTS
-United Template Structures which unite opportunities from STL structures in few. 
+United Template Structures which **unite opportunities** from `STL` structures in few. 
 # C++
 Project was written on `C++` and based on `C++17` standard.
 # All structures from UNTS
@@ -38,6 +38,6 @@ If you want to offer the improvements for this project, you can find me in:
 - [Habr](https://habr.com/ru/users/fr1zb3e/) →  WebSite
 # How can you download this project
 1. Click on the button `<> code` in main page of the project and download in ZIP format. There is the button `Download ZIP`.
-2. You can copy the link to git of repository and clone project to your machine: `git clone https://github.com/Frolotey1/UNTS.git`
+2. You can copy the link to git of this repository and clone project on your machine: `git clone https://github.com/Frolotey1/UNTS.git`
 # License 
 This project works under `MIT license`
